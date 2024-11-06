@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.fillquote"
+    namespace = "com.example.filmquote"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.fillquote"
+        applicationId = "com.example.filmquote"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

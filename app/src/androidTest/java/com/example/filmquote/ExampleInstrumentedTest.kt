@@ -1,4 +1,4 @@
-package com.example.fillquote
+package com.example.filmquote
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

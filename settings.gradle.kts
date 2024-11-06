@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Fill Quote"
+rootProject.name = "Film Quote"
 include(":app")
  
